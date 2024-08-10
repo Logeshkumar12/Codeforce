@@ -1,4 +1,4 @@
-def beautiful_matrix(mat) -> int :
+def beautiful_matrix(mat) -> int:
     if mat[2][2]==1:
         return 0
     quad=[]
