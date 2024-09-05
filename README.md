@@ -1,3 +1,2 @@
 # Codeforce
-Accepted Solutions for CodeForce Problems..!
-refer my CodeForce profile : https://codeforces.com/profile/Logesh_12
+Accepted Solutions for CodeForce Problems, to Refer my CodeForce profile Please visit: https://codeforces.com/profile/Logesh_12
